@@ -5,7 +5,7 @@ session_start();
 <html>
     <head>
         <link rel="shortcut icon" href="img/lifestyleStore.png" />
-        <title>Store</title>
+        <title>Online Flea Market</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- latest compiled and minified CSS -->
@@ -26,8 +26,8 @@ session_start();
                <div class="container">
                    <center>
                    <div id="bannerContent">
-                       <h1>We sell .</h1>
-                       <p>Flat 40% OFF on all premium brands.</p>
+                       <h1>Online Flea Market</h1>
+                       <p>Find what you want and enjoy.</p>
                        <a href="products.php" class="btn btn-danger">Shop Now</a>
                    </div>
                    </center>
@@ -38,12 +38,12 @@ session_start();
                    <div class="col-xs-4">
                        <div  class="thumbnail">
                            <a href="products.php">
-                                <img src="img/camera.jpg" alt="Camera">
+                                <img src="img/book.png" alt="book" style="width:100%" >
                            </a>
                            <center>
                                 <div class="caption">
-                                        <p id="autoResize">Cameras</p>
-                                        <p>Choose among the best available in the world.</p>
+                                        <p id="autoResize">Books</p>
+                                        <p>Choose among the best available in the UMAC.</p><br><br>
                                 </div>
                            </center>
                        </div>
@@ -51,12 +51,12 @@ session_start();
                    <div class="col-xs-4">
                        <div class="thumbnail">
                            <a href="products.php">
-                               <img src="img/watch.jpg" alt="Watch">
+                               <img src="img/clothes.jpg" alt="clothes" style="width:auto" >
                            </a>
                            <center>
                                 <div class="caption">
-                                    <p id="autoResize">Watches</p>
-                                    <p>Original watches from the best brands.</p>
+                                    <p id="autoResize">Clothes</p>
+                                    <p>Second-head but still available to use</p><br><br>
                                 </div>
                            </center>
                        </div>
@@ -64,12 +64,12 @@ session_start();
                    <div class="col-xs-4">
                        <div class="thumbnail">
                            <a href="products.php">
-                               <img src="img/shirt.jpg" alt="Shirt">
+                               <img src="img/eitems.jpg" alt="eitems" >
                            </a>
                            <center>
                                <div class="caption">
-                                   <p id="autoResize">Shirts</p>
-                                   <p>Our exquisite collection of shirts.</p>
+                                   <p id="autoResize">Electonic Items</p>
+                                   <p>Second-head but still useful.</p>
                                </div>
                            </center>
                        </div>

@@ -26,7 +26,7 @@
             <div class="container">
                 <div class="jumbotron">
                     <h1>Welcome to our Store!</h1>
-                    <p>We have the best cameras, watches and shirts for you. No need to hunt around, we have all in one place.</p>
+                    <p>Find what you want and enjoy.</p>
                 </div>
             </div>
             <div class="container">
@@ -34,12 +34,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/cannon_eos.jpg" alt="Cannon">
+                                <img src="img/book1.jpg" alt="book1">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>Cannon EOS</h3>
-                                    <p>Price: Rs. 36000.00</p>
+                                    <h3>book</h3>
+                                    <p>Price: $36</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -62,12 +62,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/sony_dslr.jpeg" alt="Sony DSLR">
+                                <img src="img/book2.jpg" alt="book2">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>Sony DSLR</h3>
-                                    <p>Price: Rs. 40000.00</p>
+                                    <h3>book</h3>
+                                    <p>Price: $40</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -89,12 +89,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/sony_dslr2.jpeg" alt="Sony DSLR">
+                                <img src="img/book3.jpg" alt="book3">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>Sony DSLR</h3>
-                                    <p>Price: Rs. 50000.00</p>
+                                    <h3>book</h3>
+                                    <p>Price: $50</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -116,12 +116,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/olympus.jpg" alt="Olympus">
+                                <img src="img/book4.jpg" alt="book4">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>Olympus DSLR</h3>
-                                    <p>Price: Rs. 80000.00</p>
+                                    <h3>book</h3>
+                                    <p>Price:$80</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -145,12 +145,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/titan301.jpg" alt="Titan 301">
+                                <img src="img/clothes1.jpg" alt="clothes1">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>Titan Model #301</h3>
-                                    <p>Price: Rs. 13000.00</p>
+                                    <h3>clothes</h3>
+                                    <p>Price: $13</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -172,12 +172,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/titan201.jpg" alt="Titan 201">
+                                <img src="img/clothes2.jpg" alt="clothes2">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>Titan Model #201</h3>
-                                    <p>Price: Rs. 3000.00</p>
+                                    <h3>clothes</h3>
+                                    <p>Price: $30</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -199,12 +199,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/hmt.JPG" alt="htm milan">
+                                <img src="img/clothes3.JPG" alt="clothes3">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>HMT Milan</h3>
-                                    <p>Price: Rs. 8000.00</p>
+                                    <h3>clothes</h3>
+                                    <p>Price:$80</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -226,12 +226,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/favreleuba.jpg" alt="Favre Leuba">
+                                <img src="img/clothes4.jpg" alt="clothes4">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>Favre Leuba #111</h3>
-                                    <p>Price: Rs. 18000.00</p>
+                                    <h3>clothes</h3>
+                                    <p>Price: $180</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -255,12 +255,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/raymond.jpg" alt="Raymond shirt">
+                                <img src="img/eitem1.jpg" alt="eitem1">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>Raymond</h3>
-                                    <p>Price: Rs. 1500.00</p>
+                                    <h3>eitem</h3>
+                                    <p>Price: $150</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -282,12 +282,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/charles.jpg" alt="Charles shirt">
+                                <img src="img/eitem2.jpg" alt="eitem2">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>Charles</h3>
-                                    <p>Price: Rs. 1000.00</p>
+                                    <h3>eitem</h3>
+                                    <p>Price: $100</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -309,12 +309,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/HXR.jpg" alt="HXR">
+                                <img src="img/eitem3.jpg" alt="eitem3">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>HXR</h3>
-                                    <p>Price: Rs. 900.00</p>
+                                    <h3>eitem</h3>
+                                    <p>Price: $90</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
@@ -336,12 +336,12 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
                             <a href="cart.php">
-                                <img src="img/pink.jpg" alt="PINK">
+                                <img src="img/eitem4.jpg" alt="eitem4">
                             </a>
                             <center>
                                 <div class="caption">
-                                    <h3>PINK</h3>
-                                    <p>Price: Rs. 1200.00</p>
+                                    <h3>eitem</h3>
+                                    <p>Price: $120</p>
                                     <?php if(!isset($_SESSION['email'])){  ?>
                                         <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                                         <?php
